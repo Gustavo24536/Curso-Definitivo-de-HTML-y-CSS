@@ -1,0 +1,3 @@
+1-  git add .  esto guarda todo lo 	??que hiciste
+2- git commit -m "estuve escribiendo la anatomia del html y me cree un archivo llamado css y le agregue color al titulo"  ??da una descripcion del trabajo que hiciste
+3- git push  ??esto lo guarda a tu repositorio de github
