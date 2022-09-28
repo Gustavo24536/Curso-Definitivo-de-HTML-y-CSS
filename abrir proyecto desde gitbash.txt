@@ -1,0 +1,3 @@
+cd Desktop
+
+code curso +tab 
