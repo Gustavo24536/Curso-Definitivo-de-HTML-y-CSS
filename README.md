@@ -17,7 +17,7 @@ Curso de Platzi
 ## Desarrollado por:
 | Linkedin | Repositorio |
 | -------  | ------- |
-| [Vargas Gustavo Bryan](linkedin.com/in/gustavo-bryan) | https://github.com/Gustavo24536 |
+| [Vargas Gustavo Bryan](https://www.linkedin.com/in/gustavo-bryan/) | https://github.com/Gustavo24536 |
 ## Tecnologías:
 * HTML
 * CSS
